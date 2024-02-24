@@ -5,22 +5,22 @@
         "homepage": "https://github.com/nmattia/niv",
         "owner": "nmattia",
         "repo": "niv",
-        "rev": "351d8bc316bf901a81885bab5f52687ec8ccab6e",
-        "sha256": "1yzhz7ihkh6p2sxhp3amqfbmm2yqzaadqqii1xijymvl8alw5rrr",
+        "rev": "d67c25f29716fd2087e71352783fcce194303a9a",
+        "sha256": "1813r42sz4pmv1syn38s281lmg2l7h779q4r33nn5azm7wy45yrh",
         "type": "tarball",
-        "url": "https://github.com/nmattia/niv/archive/351d8bc316bf901a81885bab5f52687ec8ccab6e.tar.gz",
+        "url": "https://github.com/nmattia/niv/archive/d67c25f29716fd2087e71352783fcce194303a9a.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "poetry2nix": {
-        "branch": "2023.09.08.35187",
+        "branch": "2024.2.2230616",
         "description": "Convert poetry projects to nix automagically [maintainer=@adisbladis] ",
         "homepage": "",
         "owner": "nix-community",
         "repo": "poetry2nix",
-        "rev": "c3d3c4a0396b1bcccd72c82551a319229997f6e4",
-        "sha256": "0jmadqzjzwj53z0qr6q5vzd0nwpjpaq45rq4b18bzi8dawlqzj0l",
+        "rev": "7df29134065172f24385177ea69e755cb90f196c",
+        "sha256": "0qx2iv57vhgraaqj4dm9zd3dha1p6ch4n07pja0hsxsymjbvdanw",
         "type": "tarball",
-        "url": "https://github.com/nix-community/poetry2nix/archive/c3d3c4a0396b1bcccd72c82551a319229997f6e4.tar.gz",
+        "url": "https://github.com/nix-community/poetry2nix/archive/7df29134065172f24385177ea69e755cb90f196c.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
